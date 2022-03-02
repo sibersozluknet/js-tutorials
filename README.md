@@ -4,4 +4,6 @@
 - [Copy Code](https://github.com/sibersozluk/js-tutorials/blob/root/copy-code.html)
 
 ## Demo
-- [Demoya ulaşmak için tıklayın.](https://sibersozluk.github.io/js-tutorials/)
+- [Toggle Popup Demo](https://sibersozluk.github.io/js-tutorials/toggle-popup.html)
+- [Dropdown Demo](https://sibersozluk.github.io/js-tutorials/dropdown.html)
+- [Copy Code Demo](https://sibersozluk.github.io/js-tutorials/copy-code.html)
